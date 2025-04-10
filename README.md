@@ -29,7 +29,7 @@ A Telegram bot that provides detailed token analysis using Bubblemaps and DexScr
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/BubblerMapsBot.git
+git clone https://github.com/Miharamadman/BubblerMapsBot.git
 cd BubblerMapsBot
 ```
 
